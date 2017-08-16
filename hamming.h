@@ -1,0 +1,1 @@
+int distance(const char* a, const char* b, unsigned long length_a, unsigned long length_b);
